@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ### 🥋 Mi progreso en Codewars
-![Codewars]https://www.codewars.com/users/DZMaster%2012121212/badges/large
+![Codewars](https://www.codewars.com/users/DZMaster%2012121212/badges/large)
 
